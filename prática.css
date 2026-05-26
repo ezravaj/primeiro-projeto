@@ -1,0 +1,133 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    background-color: rgb(183, 184, 193);
+    
+}
+
+.cabecalho 
+{
+    background-image: url(./imagens/bg-2.jpg);
+    background-size: cover;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-attachment:local;
+    padding: 240px;
+    margin: auto;
+    
+    
+}
+
+.cabecalho h1 {
+    color: aliceblue;
+    font-size: 46px;
+    text-align: center;
+    text-shadow: 2px 2px 2px black;
+    
+}
+
+.cabecalho p {
+    color: aliceblue;
+    background-color: rgba(100, 96, 96, 0.5);
+    width: 350px;
+    padding: 20px;
+    border-bottom: 2px solid white;
+    text-align: center;
+    margin: auto;
+}
+.cabecalho  li {
+    color: aliceblue;
+    display: inline-block;
+    background-color: rgba(100, 96, 96, 0.5);
+    padding: 15px;
+    margin-left:10px;
+    text-align: right;
+    border: 1px solid white;
+    }
+
+.cabecalho ul {
+    text-align: right;
+    margin-top: -225px;
+    margin-right: -225px;
+  
+}
+.cabecalho a {
+    text-decoration: none;
+   color: rgb(218, 218, 218);
+   
+
+   
+}
+.cabecalho a:hover {
+    color: rgb(75, 74, 74);
+    }
+
+main h2 {
+    background-color: rgb(205, 197, 197);
+    border-bottom: 2px solid gray;}
+
+
+
+section {margin: auto;
+    
+
+
+}
+
+main .link {
+    display: block;
+    width: fit-content;
+    border-radius: 10px;
+    background-color: rgb(215, 209, 209);
+    padding: 12px;
+    
+    margin-left: auto;
+    
+    
+    
+    
+    
+}
+main a:link {
+    color: rgb(0, 0, 255);
+}
+
+
+footer {
+    background-color: gray;
+    padding: 5px;
+    font-size: large;
+    text-align: center;
+    text-shadow: 2px 2px 2px black;
+    color: aliceblue;
+    word-spacing: 2px;
+    margin: auto;
+}
+
+.a{display: inline-block;
+    background-color: rgb(232, 235, 237);
+    padding: 10px;
+margin-top: 20px;
+margin-bottom: 20px;
+margin-left: 300px;
+margin-right: 300px;}
+.b{display: inline-block;
+   background-color: rgb(232, 235, 237);
+    padding: 10px;
+margin-top: 20px;
+margin-bottom: 20px;
+margin-left: 300px;
+margin-right: 300px;
+}
+.c{
+    display: inline-block;
+    background-color: rgb(232, 235, 237);
+    padding: 10px;
+margin-top: 20px;
+margin-bottom: 20px;
+margin-left: 300px;
+margin-right: 300px;
+
+}
+
+
